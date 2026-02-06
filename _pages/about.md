@@ -27,8 +27,8 @@ Hi! I'm currently a graduate student in the School of Cyber Science and Technolo
 - *2025.06*: &nbsp;🎉🎉 I graduated from Anhui University and will pursue my master's degree at USTC.
 
 # 📖 Educations
-- *2025.09 - present*, MA, Network and Information Security, [School of Cyber Science and Technology](https://cybersec.ustc.edu.cn/), University of Science and Technology of China (USTC). 
-- *2021.09 - 2025.06*, BA, Intelligent Science and Technology, [School of Internet](https://si.ahu.edu.cn/), Anhui University (AHU). 
+- *2025.09 - present*, Master, Network and Information Security, [School of Cyber Science and Technology](https://cybersec.ustc.edu.cn/), University of Science and Technology of China (USTC). 
+- *2021.09 - 2025.06*, Bachelor, Intelligent Science and Technology, [School of Internet](https://si.ahu.edu.cn/), Anhui University (AHU). 
 
 # 🥇 Honors and Awards
 - *2025.06* Outstanding Graduate of Anhui Province.
